@@ -5,7 +5,7 @@ Matlab code of ML-BiGAMP
 
 This repository provides the implementation of multi-layer bilinear generalized approximate message passing (ML-BiGAMP), which can be found in arXiv: https://arxiv.org/pdf/2007.00436.pdf
 
-This repository includes 6 experiments. 
+This repository includes 6 experiments (please see its Branches). 
 
 The 1st experiment (EXP1) verified the consistency of ML-BiGAMP and its SE in 2-layer model. 
 
