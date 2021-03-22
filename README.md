@@ -18,11 +18,11 @@ The 3rd experiment (EXP3) shown the influence of Kp/Kd on the JCD scheme.
 
 (https://github.com/QiuyunZou/ML-BiGAMP/tree/MLBiGAMP-EXP3)
 
-The 4th experiment (EXP4) shown the influence of low rank N1 on ML-BiGAMP.
+The 4th experiment (EXP4) conpared ML-BiGAMP with ML-Mat-VAMP in 3-layer model. 
 
 (https://github.com/QiuyunZou/ML-BiGAMP/tree/MLBiGAMP-EXP4)
 
-The 5th experiment (EXP5) conpared ML-BiGAMP with ML-Mat-VAMP in 3-layer model. 
+The 5th experiment (EXP5) gave the application of ML-BiGAMP in compressive matrix completion
 
 (https://github.com/QiuyunZou/ML-BiGAMP/tree/MLBiGAMP-EXP5)
 
