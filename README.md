@@ -13,7 +13,7 @@ The 2nd experiment (EXP2) provided SNR versus BER of pilot-only, JCD, and Perfec
 
 The 3rd experiment (EXP3) shown the influence of Kp/Kd on the JCD scheme. 
 
-The 4th experiment (EXP4) conpared ML-BiGAMP with ML-Mat-VAMP in 3-layer model. 
+The 4th experiment (EXP4) compared ML-BiGAMP with ML-Mat-VAMP in 3-layer model. 
 
 The 5th experiment (EXP5) gave the applicaiton of ML-BiGAMP in compressive matrix completion. 
 
